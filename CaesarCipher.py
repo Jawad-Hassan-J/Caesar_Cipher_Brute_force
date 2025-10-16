@@ -1,3 +1,4 @@
+# By Jawad
 # import dictionary to check word exist or not
 from wordfreq import zipf_frequency
 
